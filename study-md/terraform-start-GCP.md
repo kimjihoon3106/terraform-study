@@ -1,6 +1,6 @@
 
 
-## install terraform
+## install terraform(macOS)
 
 install Terraform
 ```bash
